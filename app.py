@@ -28,7 +28,7 @@ PITCH_COMPANY = ["APP"]  # AppLovin
 # YOUR WRITTEN CONCLUSIONS: replace the text below with your own analysis.
 # ---------------------------------------------------------------------------
 CONCLUSIONS = """
-Based on my analysis and evaluation of red flags i have noticed that innacuracys and abnormalities happen when financials and real estate is included. the screening is fantastic at giving good structure on what companies have vaulnerable current financials and could possibly be manipulative. Although this data provided is fantastic at pointing out good buy and sell candidates i would still like to do some personal investigating into the companies yahoo finance numbers before jumping to investing. 
+Based on my analysis and evaluation of red flags I have noticed that innacuracys and abnormalities happen when financials and real estate is included. The screening is fantastic at giving good structure on what companies have vaulnerable current financials and could possibly be manipulative. Although this data provided is fantastic at pointing out good buy and sell candidates I would still like to do some personal investigating into the companies yahoo finance numbers before jumping to investing. 
 #### 
 """
 
