@@ -27,30 +27,9 @@ PITCH_COMPANY = ["APP"]  # AppLovin
 # ---------------------------------------------------------------------------
 # YOUR WRITTEN CONCLUSIONS: replace the text below with your own analysis.
 # ---------------------------------------------------------------------------
-CONCLUSIONS = """ Based on my analysis and evaluation of red flags i have noticed that innacuracys and abnormalities happen when financials and real estate is included. the screening is fantastic at giving good structure on what companies have vaulnerable current financials and could possibly be manipulative. Although this data provided is fantastic at pointing out good buy and sell candidates i would still like to do some personal investigating into the companies yahoo finance numbers before jumping to investing. 
-#### Top SELL candidates
-
-**1. [Ticker - Company]**
-*Why the screen flagged it:* [which red flags tripped and the actual numbers]
-*Beyond the score:* [what you found in the 10-K, news, footnotes, cash flow trend,
-industry context... is the red flag real or explainable?]
-*Conclusion:* [SELL / avoid, and what would change your mind]
-
-**2. [Ticker - Company]**
-...
-
-#### Top BUY candidates
-
-**1. [Ticker - Company]**
-*Why the screen picked it:* [GPA, value ratio and percentiles]
-*Beyond the score:* [competitive position, why it might be cheap, risks]
-*Conclusion:* [BUY, and the key risk to watch]
-
-**2. [Ticker - Company]**
-...
-
-#### Overall
-[What the screen taught you, which settings you used, and any limitations.]
+CONCLUSIONS = """
+Based on my analysis and evaluation of red flags i have noticed that innacuracys and abnormalities happen when financials and real estate is included. the screening is fantastic at giving good structure on what companies have vaulnerable current financials and could possibly be manipulative. Although this data provided is fantastic at pointing out good buy and sell candidates i would still like to do some personal investigating into the companies yahoo finance numbers before jumping to investing. 
+#### 
 """
 
 
